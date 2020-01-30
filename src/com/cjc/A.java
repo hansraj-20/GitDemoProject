@@ -17,5 +17,6 @@ public class A {
 			int i = (int)itr.next();
 			System.out.println(i);
 		}
+		System.out.println("Git Project Succesfully...............");
 	}
 }
